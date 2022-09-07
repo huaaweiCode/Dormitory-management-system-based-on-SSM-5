@@ -90,12 +90,6 @@
 
 学生可以查看个人信息、密码修改
 
-## 5、获取方式
-
-扫描下方，回复 “**宿舍5** ” ，获取完整版的项目代码。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 
 
 
