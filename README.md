@@ -90,7 +90,11 @@
 
 学生可以查看个人信息、密码修改
 
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：宿舍
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
 
 
